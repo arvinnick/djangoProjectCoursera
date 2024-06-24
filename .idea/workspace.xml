@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c602338f-a52e-4950-a297-b4e163dc96a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LittleLemon/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LittleLemon/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LittleLemon/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LittleLemon/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LittleLemon/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LittleLemonDRF/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LittleLemonDRF/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LittleLemonDRF/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LittleLemonDRF/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LittleLemonDRF/migrations/0002_rename_menu_item_rating_menuitem_id.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LittleLemonDRF/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LittleLemonDRF/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LittleLemonDRF/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LittleLemonDRF/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LittleLemonDRF/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LittleLemonDRF/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoproject/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoproject/demoapp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoproject/demoapp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoproject/demoapp/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoproject/demoapp/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoproject/demoapp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoproject/demoapp/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoproject/demoapp/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoproject/demoapp/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoproject/demoproject/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoproject/demoproject/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoproject/demoproject/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoproject/demoproject/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoproject/demoproject/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoproject/manage.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;arvinnick&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/arvinnick/djangoProjectCoursera.git&quot;,
+    &quot;accountId&quot;: &quot;14d39895-335d-4f03-9af5-a341a4543307&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2iHam5SNEhzuAgjcO9vELZvxJJE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Django Server.Unnamed.executor": "Debug",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/arvinnick/PycharmProjects/djangoProjectCoursera",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.intellij.python.django.customization.DjangoModulesConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Python.DjangoServer" factoryName="Django server" nameIsGenerated="true">
+      <module name="djangoProjectCoursera" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="arvinnick" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Pipenv (djangoProjectCoursera)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17890.14" />
+        <option value="bundled-python-sdk-5b207ade9991-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c602338f-a52e-4950-a297-b4e163dc96a1" name="Changes" comment="" />
+      <created>1719150111615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719150111615</updated>
+      <workItem from="1719150112712" duration="639000" />
+      <workItem from="1719154516574" duration="8155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LittleLemonDRF/views.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
